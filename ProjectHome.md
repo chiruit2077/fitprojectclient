@@ -1,0 +1,1 @@
+This is the sub project which provides the client side application. It uses Android as the main mobile OS. It talks to the server and display the pushed event information.
